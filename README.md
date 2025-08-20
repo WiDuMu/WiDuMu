@@ -2,6 +2,7 @@
 I'm a undergraduate computer science student at the University of Minnesota.
 My interests include Web Development, Multimedia, and Compression.
 
+[widumu.dev](https://www.widumu.dev)
 <!--
 **WiDuMu/WiDuMu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
